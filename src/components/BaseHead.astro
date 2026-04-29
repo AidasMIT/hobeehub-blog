@@ -14,35 +14,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description, image = FallbackImage } = Astro.props;
 ---
 
-<!-- Google Analytics (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7XD0HQ30F5"></script>
-<script is:inline>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
- gtag('config', 'G-7XD0HQ30F5');
-</script>
-
-<!-- Google Tag Manager -->
-<script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MC7XSN8T');</script>
-<!-- End Google Tag Manager -->
-
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/svg+xml" href="/hobeehub-logo.svg" />
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-<link rel="apple-touch-icon" href="/logo.png" />
+<link rel="apple-touch-icon" href="/hobeehub-logo.svg" />
 <link rel="sitemap" href="/sitemap-index.xml" />
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
 <meta name="generator" content={Astro.generator} />
-<meta name="theme-color" content="#059669" />
+<meta name="theme-color" content="#f59e0b" />
 
-<!-- Preload fonts -->
+<!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
@@ -53,17 +36,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
-<meta name="author" content="Aidas Marcinkevičius" />
+<meta name="author" content="HobeeHub" />
 <meta name="robots" content="index, follow" />
 
-<!-- Open Graph / Facebook -->
+<!-- Open Graph -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={new URL(image.src, Astro.url)} />
-<meta property="og:site_name" content="unchainit.tech blog" />
-<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="HobeeHub Blog" />
+<meta property="og:locale" content="lt_LT" />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
@@ -76,21 +59,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="application/ld+json" set:html={JSON.stringify({
 	"@context": "https://schema.org",
 	"@type": "WebSite",
-	"name": "unchainit.tech blog",
-	"url": "https://blog.unchainit.tech",
+	"name": "HobeeHub Blog",
+	"url": "https://blog.hobeehub.com",
 	"description": description,
-	"author": {
-		"@type": "Person",
-		"name": "Aidas Marcinkevičius",
-		"url": "https://linkedin.com/in/aidasmarcink"
-	},
 	"publisher": {
 		"@type": "Organization",
-		"name": "unchainit.tech",
-		"url": "https://unchainit.tech",
+		"name": "HobeeHub",
+		"url": "https://hobeehub.com",
 		"logo": {
 			"@type": "ImageObject",
-			"url": "https://blog.unchainit.tech/logo.png"
+			"url": "https://blog.hobeehub.com/hobeehub-logo.svg"
 		}
 	}
 })} />

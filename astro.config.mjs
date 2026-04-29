@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-	site: 'https://blog.unchainit.tech',
+	site: 'https://blog.hobeehub.com',
 	integrations: [mdx(), sitemap()],
 });

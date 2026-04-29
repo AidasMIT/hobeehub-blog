@@ -5,8 +5,7 @@ import HeaderLink from './HeaderLink.astro';
 <header>
 	<nav>
 		<a href="/" class="logo">
-			<span class="logo-text">🐝 HobeeHub</span>
-			<span class="logo-sub">Blog</span>
+			<img src="/hobeehub-logo.svg" alt="HobeeHub" class="logo-img" />
 		</a>
 		<div class="internal-links">
 			<HeaderLink href="/">Pradžia</HeaderLink>
@@ -35,28 +34,8 @@ import HeaderLink from './HeaderLink.astro';
 		margin: 0 auto;
 		height: 64px;
 	}
-	.logo {
-		text-decoration: none;
-		display: flex;
-		align-items: center;
-		gap: 0.4rem;
-	}
-	.logo-text {
-		font-family: 'Baloo 2', sans-serif;
-		font-size: 1.25rem;
-		font-weight: 800;
-		color: rgb(var(--black));
-		letter-spacing: -0.01em;
-	}
-	.logo-sub {
-		font-size: 0.75rem;
-		font-weight: 600;
-		color: var(--accent);
-		background: var(--accent-light);
-		padding: 0.1em 0.5em;
-		border-radius: 999px;
-		margin-top: 2px;
-	}
+	.logo { text-decoration: none; display: flex; align-items: center; }
+	.logo-img { height: 32px; width: auto; border-radius: 0; }
 	.internal-links { display: flex; gap: 2px; }
 	nav a {
 		padding: 0.5em 0.875em;
@@ -67,16 +46,7 @@ import HeaderLink from './HeaderLink.astro';
 		border-radius: 10px;
 		transition: all 0.15s;
 	}
-	nav a:hover {
-		color: rgb(var(--black));
-		background: rgb(var(--gray-light));
-	}
-	nav a.active {
-		color: var(--accent-dark);
-		background: var(--accent-light);
-	}
-	@media (max-width: 720px) {
-		header { padding: 0 1rem; }
-		.logo-sub { display: none; }
-	}
+	nav a:hover { color: rgb(var(--black)); background: rgb(var(--gray-light)); }
+	nav a.active { color: var(--accent-dark); background: var(--accent-light); }
+	@media (max-width: 720px) { header { padding: 0 1rem; } }
 </style>
