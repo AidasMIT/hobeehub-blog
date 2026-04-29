@@ -7,4 +7,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://blog.hobeehub.com',
 	integrations: [mdx(), sitemap()],
+	image: {
+		domains: ['images.unsplash.com'],
+	},
 });

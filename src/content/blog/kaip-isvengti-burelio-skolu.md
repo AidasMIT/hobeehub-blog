@@ -22,6 +22,12 @@ Prieš sprendžiant problemą, svarbu suprasti jos šaknis. Dažniausiai skolos 
 
 Kai bent vienas iš šių elementų trūksta, skolos tampa tik laiko klausimu.
 
+
+<figure>
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=450&fit=crop" alt="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" title="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" width="800" height="450" loading="lazy" />
+<figcaption>Automatizuoti mokėjimo priminimai sumažina vėlavimus 60-70%.</figcaption>
+</figure>
+
 ## Išankstinio apmokėjimo politika: aukso standartas
 
 Paprasčiausias ir efektyviausias būdas kaip išvengti būrelio skolų - pereiti prie išankstinio apmokėjimo. Tai reiškia: mėnesio mokestis sumokamas iki mėnesio pradžios, o ne pabaigoje.

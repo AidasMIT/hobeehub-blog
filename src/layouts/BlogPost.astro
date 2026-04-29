@@ -19,8 +19,8 @@ const articleSchema = JSON.stringify({
 	"dateModified": updatedDate?.toISOString() || pubDate?.toISOString(),
 	"author": {
 		"@type": "Person",
-		"name": "Aidas Marcinkevičius",
-		"url": "https://linkedin.com/in/aidasmarcink"
+		"name": "hobeehub",
+		"url": "https://hobeehub.com"
 	},
 	"publisher": {
 		"@type": "Organization",
@@ -31,7 +31,7 @@ const articleSchema = JSON.stringify({
 });
 ---
 
-<html lang="en">
+<html lang="lt">
 	<head>
 		<BaseHead title={`${title} — hobeehub`} description={description} />
 		<script type="application/ld+json" set:html={articleSchema} />
@@ -47,7 +47,7 @@ const articleSchema = JSON.stringify({
 				top: -100px;
 				width: 400px;
 				height: 400px;
-				background: #d1fae5;
+				background: rgba(245,158,11,0.08);
 				border-radius: 50%;
 				filter: blur(80px);
 				opacity: 0.3;
@@ -138,15 +138,13 @@ const articleSchema = JSON.stringify({
 	</head>
 
 	<body>
-		<!-- Google Tag Manager (noscript) -->
-		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC7XSN8T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<!-- End Google Tag Manager (noscript) -->
+		
 		<Header />
 		<main>
 			<article>
 				<div class="prose">
 					<div class="article-header">
-						<a href="/blog" class="back-link">← All posts</a>
+						<a href="/blog" class="back-link">← Visi straipsniai</a>
 						<div class="article-meta">
 							<FormattedDate date={pubDate} />
 							{updatedDate && (
@@ -159,7 +157,7 @@ const articleSchema = JSON.stringify({
 
 					{heroImage && (
 						<div class="hero-image">
-							<Image width={1020} height={510} src={heroImage} alt="" />
+							<Image width={1020} height={510} src={heroImage} alt={title} title={title} loading="eager" />
 						</div>
 					)}
 

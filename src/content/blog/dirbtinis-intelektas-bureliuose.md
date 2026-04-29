@@ -21,6 +21,12 @@ Svarbu suprasti ribas. AI neatves jums mokinių, nepasėdės su vaikais ir neiš
 
 Vienas mokyklos šokių būrelio vadovas papasakojo: anksčiau kiekvieną mėnesį praleisdavo apie 3 valandas rašydamas pranešimus tėvams, atnaujindamas socialinių tinklų puslapius ir ruošdamas reklaminius tekstus. Pradėjus naudoti AI įrankius - tas pats darbas užima apie 40 minučių.
 
+
+<figure>
+<img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=450&fit=crop" alt="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" title="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" width="800" height="450" loading="lazy" />
+<figcaption>AI įrankiai leidžia per kelias sekundes sugeneruoti profesionalius pranešimus tėvams.</figcaption>
+</figure>
+
 ## Komunikacija su tėvais: kaip AI padeda rašyti greičiau ir geriau
 
 Tėvai gauna daug pranešimų. Kad jūsų žinutė būtų perskaityta ir suprantama, ji turi būti aiški, trumpa ir profesionali. Dirbtinis intelektas būreliuose gali generuoti tokius pranešimus per kelias sekundes.
