@@ -2,7 +2,7 @@
 title: 'Būrelio administravimas: kaip sutaupyti laiką ir išvengti chaoso'
 description: 'Efektyvus būrelio administravimas - nuo lankomumo apskaitos iki mokėjimų surinkimo. Praktiniai patarimai ir skaitmeniniai įrankiai.'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop'
+heroImage: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&h=630&fit=crop&q=90'
 tags: ['būrelio administravimas', 'valdymas', 'automatizavimas', 'mokėjimai']
 ---
 

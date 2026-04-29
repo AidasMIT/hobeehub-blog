@@ -2,7 +2,7 @@
 title: 'Kaip padidinti mokinių skaičių būrelyje: 7 išbandytos strategijos'
 description: 'Praktiniai patarimai, kaip padidinti mokinių skaičių būrelyje - nuo rekomendacijų programų iki Google matomumo ir socialinių įrodymų.'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop'
+heroImage: 'https://images.unsplash.com/photo-1529390079861-591de354faf5?w=1200&h=630&fit=crop&q=90'
 tags: ['mokinių pritraukimas', 'būreliai', 'augimas', 'rekomendacijos']
 ---
 

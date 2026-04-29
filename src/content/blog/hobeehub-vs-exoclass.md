@@ -2,14 +2,14 @@
 title: 'hobeehub vs ExoClass: kurią būrelio valdymo sistemą rinktis 2025 m.?'
 description: 'Lyginame hobeehub ir ExoClass - kaina, funkcijos, mokėjimai, klientų pritraukimas. Sužinokite, kuri sistema geriau tinka jūsų būreliui.'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop'
+heroImage: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=90'
 tags: ['hobeehub vs exoclass', 'būrelio valdymo sistema', 'exoclass alternatyva', 'būrelio programėlė']
 ---
 
 Ieškote tinkamos sistemos savo būreliui ir nežinote, kuo skiriasi **hobeehub** ir **ExoClass**? Šiame straipsnyje rasite sąžiningą palyginimą pagal tai, kas organizatoriams rūpi labiausiai: kaina, funkcijos, mokėjimai ir - svarbiausia - ar sistema padeda pritraukti naujų klientų.
 
 <figure>
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop" alt="Būrelio valdymo sistemų palyginimas - hobeehub vs ExoClass funkcijos ir kaina" title="hobeehub vs ExoClass palyginimas" width="800" height="450" loading="lazy" />
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200w=800&h=450&fit=croph=675w=800&h=450&fit=cropfit=cropw=800&h=450&fit=cropq=90" alt="Būrelio valdymo sistemų palyginimas - hobeehub vs ExoClass funkcijos ir kaina" title="hobeehub vs ExoClass palyginimas" width="1200" height="675" loading="lazy" />
 <figcaption>Tinkama sistema sutaupo laiką administravimui ir padeda augti - bet ne visos sistemos siūlo tą patį.</figcaption>
 </figure>
 

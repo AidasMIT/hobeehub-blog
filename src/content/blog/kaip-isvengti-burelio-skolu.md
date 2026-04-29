@@ -2,7 +2,7 @@
 title: 'Kaip išvengti būrelio skolų: mokėjimų valdymas ir nemokių klientų sprendimas'
 description: 'Sužinokite, kaip išvengti būrelio skolų - nuo išankstinio apmokėjimo politikos iki teisinių priemonių. Praktinis vadovas organizatoriams.'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop'
+heroImage: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=630&fit=crop&q=90'
 tags: ['būrelio administravimas', 'mokėjimai', 'skolos', 'finansai']
 ---
 
@@ -24,7 +24,7 @@ Kai bent vienas iš šių elementų trūksta, skolos tampa tik laiko klausimu.
 
 
 <figure>
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=450&fit=crop" alt="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" title="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" width="800" height="450" loading="lazy" />
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200w=800&h=450&fit=croph=675w=800&h=450&fit=cropfit=cropw=800&h=450&fit=cropq=90" alt="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" title="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" width="1200" height="675" loading="lazy" />
 <figcaption>Automatizuoti mokėjimo priminimai sumažina vėlavimus 60-70%.</figcaption>
 </figure>
 

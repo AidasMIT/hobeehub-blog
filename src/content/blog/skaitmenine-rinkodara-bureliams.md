@@ -2,7 +2,7 @@
 title: 'Skaitmeninė rinkodara būreliams: kaip pritraukti mokinius internetu'
 description: 'Sužinokite, kaip skaitmeninė rinkodara būreliams padeda pritraukti tėvus ir mokinius. Google Maps, socialiniai tinklai, el. paštas ir daugiau.'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&h=630&fit=crop'
+heroImage: 'https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=1200&h=630&fit=crop&q=90'
 tags: ['skaitmeninė rinkodara', 'būreliai', 'mokinių pritraukimas', 'marketingas']
 ---
 
