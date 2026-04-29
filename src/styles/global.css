@@ -79,12 +79,12 @@ code {
 pre { background: rgb(var(--black)); padding: 1.5em; border-radius: 0.75em; overflow-x: auto; }
 pre code { background: none; padding: 0; font-size: 0.85em; color: #e2e8f0; }
 
-img { max-width: 100%; border-radius: 0.75em; }
+img { max-width: 100%; height: auto; object-fit: contain; border-radius: 0.75em; }
 
 hr { border: none; border-top: 1px solid rgba(var(--gray), 0.2); margin: 2em 0; }
 
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
 
 figure { margin: 2em 0; }
-figure img { width: 100%; height: auto; border-radius: 10px; display: block; }
+figure img { width: 100%; height: auto; max-height: 500px; object-fit: contain; border-radius: 10px; display: block; background: #f8f8f8; }
 figcaption { text-align: center; font-size: 0.82em; color: rgb(var(--gray)); margin-top: 0.6em; font-style: italic; }

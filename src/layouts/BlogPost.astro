@@ -95,7 +95,11 @@ const articleSchema = JSON.stringify({
 			.hero-image img {
 				display: block;
 				width: 100%;
+				height: auto;
+				max-height: 480px;
+				object-fit: contain;
 				border-radius: 16px;
+				background: #f8f8f8;
 			}
 			.prose {
 				width: 720px;
