@@ -60,7 +60,7 @@ ExoClass yra uždara sistema: klientai gali registruotis ir mokėti, bet sistema
 | Funkcija | ExoClass | hobeehub |
 |----------|----------|----------|
 | Veiklų valdymas | ✅ | ✅ |
-| Mokėjimų surinkimas | ✅ Paysera/Stripe | ✅ NeoPay (LT bankai) |
+| Mokėjimų surinkimas | ✅ | ✅ NeoPay (LT bankai) |
 | Viešas būrelių katalogas | ❌ | ✅ |
 | Šeimos paskyra (keli vaikai) | ⚠️ Ribota | ✅ |
 | Neatvykimų kreditų sistema | ❌ | ✅ |
@@ -68,7 +68,7 @@ ExoClass yra uždara sistema: klientai gali registruotis ir mokėti, bet sistema
 | Tiesioginės žinutės tėvams | ❌ Tik el. paštas | ✅ Chat + el. paštas |
 | Free planas | ❌ | ✅ |
 
-## Mokėjimai: NeoPay vs Paysera/Stripe
+## Mokėjimai
 
 Mokėjimų integracija yra svarbus praktinis klausimas, ypač Lietuvoje.
 
@@ -83,9 +83,9 @@ Papildomos funkcijos:
 - Pinigų grąžinimai vienu mygtuku
 - Automatiniai išmokėjimai į jūsų IBAN
 
-### ExoClass naudoja Paysera/Stripe
+### ExoClass mokėjimai
 
-Paysera ir Stripe yra patikimi sprendimai, tačiau Stripe mokesčiai (0,30-0,40 € + komisinis nuo kiekvienos operacijos) gali žymiai padidinti kaštus intensyviai veikiančiam būreliui.
+ExoClass integruoja mokėjimų sprendimus, tačiau tikslesnė informacija apie mokesčių struktūrą geriausiai tikrinama tiesiogiai su jais.
 
 ## Komunikacija su tėvais
 

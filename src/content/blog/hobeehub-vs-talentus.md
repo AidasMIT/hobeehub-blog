@@ -66,7 +66,7 @@ Tai reiškia du nepriklausomus klientų pritraukimo kanalus:
 1. Jūsų pačių rinkodara (socialiniai tinklai, rekomendacijos)
 2. hobeehub katalogas (SEO, tiesioginė paieška)
 
-## Mokėjimai: NeoPay vs Talentus sistema
+## Mokėjimai
 
 ### hobeehub - NeoPay integracija
 
@@ -81,7 +81,7 @@ Automatizacija:
 
 ### Talentus mokėjimų modelis
 
-Talentus taip pat integruoja mokėjimus, tačiau papildomi 0,30-0,40 € už operaciją ir 1 € už sutartį sumuojasi į didelę sumą aktyviai veikiančiam organizatoriui.
+Talentus taip pat integruoja mokėjimų sprendimus. Tikslesnė informacija apie tarifus geriausiai tikrinama tiesiogiai su Talentus komanda.
 
 ## Funkcijų palyginimas
 
