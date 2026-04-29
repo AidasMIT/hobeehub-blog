@@ -183,4 +183,4 @@ Taip - dauguma modernių platformų palaiko kelias grupes, lokacijas ir net skir
 
 ---
 
-**Pasiruošę supaprastinti būrelio administravimą?** [HobeeHub](https://hobeehub.com) - platforma, sukurta būtent Lietuvos būrelių organizatoriams. Mokinių registras, lankomumo sekimas, automatiniai mokėjimų priminimai ir tėvų komunikacija - viskas vienoje vietoje. Pradėkite nemokamai ir susigrąžinkite savo laiką.
+**Pasiruošę supaprastinti būrelio administravimą?** [hobeehub](https://hobeehub.com) - platforma, sukurta būtent Lietuvos būrelių organizatoriams. Mokinių registras, lankomumo sekimas, automatiniai mokėjimų priminimai ir tėvų komunikacija - viskas vienoje vietoje. Pradėkite nemokamai ir susigrąžinkite savo laiką.

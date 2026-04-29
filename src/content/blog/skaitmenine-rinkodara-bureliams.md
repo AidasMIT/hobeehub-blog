@@ -151,4 +151,4 @@ Jei jūsų biudžetas ribotas, pradėkite patys - daugumą veiksmų galite atlik
 
 ---
 
-**Norite supaprastinti būrelio valdymą ir daugiau laiko skirti rinkodarai?** [HobeeHub](https://hobeehub.com) - platforma būrelių organizatoriams, kuri automatizuoja administravimą, registraciją ir mokėjimus, kad galėtumėte susitelkti į tai, kas svarbiausia - mokinių pritraukimą ir kokybišką veiklą.
+**Norite supaprastinti būrelio valdymą ir daugiau laiko skirti rinkodarai?** [hobeehub](https://hobeehub.com) - platforma būrelių organizatoriams, kuri automatizuoja administravimą, registraciją ir mokėjimus, kad galėtumėte susitelkti į tai, kas svarbiausia - mokinių pritraukimą ir kokybišką veiklą.

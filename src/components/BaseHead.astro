@@ -36,7 +36,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
-<meta name="author" content="HobeeHub" />
+<meta name="author" content="hobeehub" />
 <meta name="robots" content="index, follow" />
 
 <!-- Open Graph -->
@@ -45,7 +45,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={new URL(image.src, Astro.url)} />
-<meta property="og:site_name" content="HobeeHub Blog" />
+<meta property="og:site_name" content="hobeehub Blog" />
 <meta property="og:locale" content="lt_LT" />
 
 <!-- Twitter -->
@@ -59,12 +59,12 @@ const { title, description, image = FallbackImage } = Astro.props;
 <script type="application/ld+json" set:html={JSON.stringify({
 	"@context": "https://schema.org",
 	"@type": "WebSite",
-	"name": "HobeeHub Blog",
+	"name": "hobeehub Blog",
 	"url": "https://blog.hobeehub.com",
 	"description": description,
 	"publisher": {
 		"@type": "Organization",
-		"name": "HobeeHub",
+		"name": "hobeehub",
 		"url": "https://hobeehub.com",
 		"logo": {
 			"@type": "ImageObject",

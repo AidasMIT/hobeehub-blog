@@ -140,4 +140,4 @@ Lietuvoje paslaugų sutarčių ieškinio senaties terminas yra 3 metai. Tačiau 
 
 Kaip išvengti būrelio skolų - tai ne vieno veiksmo klausimas, o sistema: aiški politika, rašytinė sutartis, automatiniai priminimai ir patogu mokėjimas. Kiekvienam būreliui, kuris dar neturi šių elementų - laikas tai keisti.
 
-Norite, kad jūsų būrelis pasiektų daugiau potencialių mokinių? Užregistruokite jį [HobeeHub](https://hobeehub.com) - platformoje, kur tėvai aktyviai ieško veiklų savo vaikams.
+Norite, kad jūsų būrelis pasiektų daugiau potencialių mokinių? Užregistruokite jį [hobeehub](https://hobeehub.com) - platformoje, kur tėvai aktyviai ieško veiklų savo vaikams.

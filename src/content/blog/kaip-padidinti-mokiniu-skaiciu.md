@@ -165,4 +165,4 @@ Suskaičiuokite visas mėnesines išlaidas (patalpos, medžiagos, mokesčiai, j�
 
 ---
 
-**Norite efektyviai valdyti augantį būrelį?** [HobeeHub](https://hobeehub.com) padeda būrelių organizatoriams automatizuoti registraciją, mokėjimus ir tėvų komunikaciją - kad galėtumėte susitelkti į mokinių pritraukimą ir kokybišką veiklą. Išbandykite nemokamai.
+**Norite efektyviai valdyti augantį būrelį?** [hobeehub](https://hobeehub.com) padeda būrelių organizatoriams automatizuoti registraciją, mokėjimus ir tėvų komunikaciją - kad galėtumėte susitelkti į mokinių pritraukimą ir kokybišką veiklą. Išbandykite nemokamai.

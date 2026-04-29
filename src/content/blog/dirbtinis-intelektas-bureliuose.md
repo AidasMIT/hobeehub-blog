@@ -124,4 +124,4 @@ Netiesiogiai - taip. Geresnis turinys socialiniuose tinkluose, aiškesni praneš
 
 Dirbtinis intelektas būreliuose - ne mada, o praktinis įrankis, sutaupantis laiko ir gerinantis komunikacijos kokybę. Pradėkite nuo mažo, išbandykite vieną užduotį ir stebėkite, kaip keičiasi jūsų darbo tempas.
 
-Norite, kad jūsų būrelis būtų lengviau randamas tėvų ir mokinių? Užregistruokite jį [HobeeHub](https://hobeehub.com) - platformoje, kur tėvai aktyviai ieško veiklų savo vaikams.
+Norite, kad jūsų būrelis būtų lengviau randamas tėvų ir mokinių? Užregistruokite jį [hobeehub](https://hobeehub.com) - platformoje, kur tėvai aktyviai ieško veiklų savo vaikams.
