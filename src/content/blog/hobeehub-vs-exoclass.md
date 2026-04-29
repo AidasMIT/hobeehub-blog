@@ -89,15 +89,9 @@ Tai labiausiai juntamas skirtumas:
 
 Metiniu požiūriu: ExoClass bazinis = €1,188+PVM/metai. hobeehub Standartinis = €240/metai.
 
-## Kam tinka ExoClass, kam hobeehub
+## Kam tinka hobeehub
 
-**Rinkitės ExoClass, jei:**
-- Dirbate su NVŠ finansavimu ir reikalingas automatinis sutarčių generavimas bei pasirašymas
-- Turite 5+ samdytus instruktorius ir reikalinga atlyginimų skaičiuoklė
-- Taikote bandomąsias pamokas kaip pagrindinį įsitraukimo modelį
-- Biudžetas leidžia €100-300/mėn sistemos mokesčiui
-
-**Rinkitės hobeehub, jei:**
+hobeehub geriausiai tinka, jei:
 - Svarbu turėti papildomą klientų pritraukimo kanalą be papildomų reklamos išlaidų
 - Tėvai turi kelis vaikus skirtinguose būreliuose - šeimos paskyra svarbi
 - Norite modernios komunikacijos su tėvais (chat, ne tik el. paštas)

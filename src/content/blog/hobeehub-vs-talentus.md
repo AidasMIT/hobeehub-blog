@@ -96,15 +96,9 @@ hobeehub kreditų sistema: tėvas praneša apie neatvykimą - pamoka virsta kred
 
 Talentus bazinė kaina yra tik pradinis skaičius - tikroji mėnesio kaina priklauso nuo operacijų apimties. Su 50-100 mokiniais skirtumas tarp sistemų kasmet gali siekti kelis šimtus eurų.
 
-## Kam tinka Talentus, kam hobeehub
+## Kam tinka hobeehub
 
-**Rinkitės Talentus, jei:**
-- Reikalingas automatinis sutarčių generavimas ir el. pasirašymas (visuose planuose)
-- Svarbi SMS komunikacija (Eksperto planas)
-- Reikalingas stovyklų valdymo modulis
-- Klientų skaičius stabilus, operacijų ne per daug - papildomi mokesčiai nekaupiasi
-
-**Rinkitės hobeehub, jei:**
+hobeehub geriausiai tinka, jei:
 - Svarbu pritraukti naujus klientus per viešą katalogą be papildomų reklamos išlaidų
 - Tėvai turi kelis vaikus - šeimos paskyra sumažina registracijos trintį
 - Norite fiksuotos mėnesio kainos be kintamųjų mokesčių
