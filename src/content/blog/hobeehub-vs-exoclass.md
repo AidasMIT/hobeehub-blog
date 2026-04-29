@@ -1,158 +1,125 @@
 ---
-title: 'hobeehub vs ExoClass: kurią būrelio valdymo sistemą rinktis 2025 m.?'
-description: 'Lyginame hobeehub ir ExoClass - kaina, funkcijos, mokėjimai, klientų pritraukimas. Sužinokite, kuri sistema geriau tinka jūsų būreliui.'
+title: 'hobeehub vs ExoClass: kuri sistema geriau tinka jūsų būreliui? (2025)'
+description: 'Sąžiningas hobeehub ir ExoClass palyginimas: funkcijos, kasdienė administracija, klientų pritraukimas, kainodara. Kurioje sistemoje dirbsite efektyviau?'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=630&fit=crop&q=90'
-tags: ['hobeehub vs exoclass', 'būrelio valdymo sistema', 'exoclass alternatyva', 'būrelio programėlė']
+heroImage: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop&q=90'
+tags: ['hobeehub vs exoclass', 'exoclass alternatyva', 'būrelio valdymo sistema', 'būrelio programėlė']
 ---
 
-Ieškote tinkamos sistemos savo būreliui ir nežinote, kuo skiriasi **hobeehub** ir **ExoClass**? Šiame straipsnyje rasite sąžiningą palyginimą pagal tai, kas organizatoriams rūpi labiausiai: kaina, funkcijos, mokėjimai ir - svarbiausia - ar sistema padeda pritraukti naujų klientų.
+Ieškote būrelio valdymo sistemos ir svarstote tarp hobeehub ir ExoClass? Šis palyginimas padės priimti informuotą sprendimą.
 
-<figure>
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=675&fit=crop&q=90" alt="Būrelio valdymo sistemų palyginimas - hobeehub vs ExoClass funkcijos ir kaina" title="hobeehub vs ExoClass palyginimas" width="1200" height="675" loading="lazy" />
-<figcaption>Tinkama sistema sutaupo laiką administravimui ir padeda augti - bet ne visos sistemos siūlo tą patį.</figcaption>
-</figure>
+> **Trumpai:** ExoClass - brandžia funkcijų apimtimi su NVŠ sutarčių valdymu ir mokytojų atlyginimų skaičiuokle, skirta didelėms ar sudėtingesnę administraciją turinčioms organizacijoms. hobeehub - moderni platforma su viešu katalogu naujų klientų pritraukimui, šeimos paskyromis ir chat žinutėmis, tinkanti augančioms ir smulkesnėms organizacijoms. Kainų skirtumas: ExoClass nuo €99/mėn+PVM, hobeehub nuo €0.
 
-## Trumpas atsakymas
+## Esminis skirtumas: pasyvi rinkodara vs gryna administracija
 
-**ExoClass** - geras administravimo įrankis su ilga veiklos istorija Lietuvoje. Tinka organizatoriams, kurie jau turi klientų bazę ir nori ją sutvarkyti.
+Abu sprendimai automatizuoja registracijas, sąskaitas ir priminimus. Bet yra vienas aspektas, kuriame jie skiriasi iš esmės.
 
-**hobeehub** - administravimas + viešas katalogas + Free planas. Tinka tiek naujiems, tiek augti norintiems organizatoriams, kuriems svarbu pritraukti naujų mokinių be papildomų rinkodaros išlaidų.
+**ExoClass** yra administravimo sistema. Puikiai tvarko esamus klientus - registracijas, sutartis, sąskaitas, atlyginimus. Naujų klientų pritraukimas lieka jūsų atsakomybe: svetainė, socialiniai tinklai, žodis iš lūpų į lūpas.
 
-## Kaina: kiek iš tikrųjų mokate?
+**hobeehub** yra administravimas ir papildomas klientų pritraukimo kanalas. Kiekviena hobeehub organizacija automatiškai gauna viešą profilį katalogu paremtame `hobeehub.com` - tėvai ten ieško veiklų tiesiogiai arba per Google. Tai reiškia, kad sistemoje administruodami veiklas vienu metu esate matomi naujiems klientams.
 
-Tai dažniausiai pirmasis klausimas. Ir čia skirtumas yra esminis.
+Tai nėra lemiantis veiksnys visiems - bet jei klientų pritraukimas yra aktualus, šis skirtumas svarbus.
 
-### ExoClass kainodara
+## Ko ExoClass tikrai geras
 
-ExoClass dirba subscription modeliu, kurio tikslios kainos nėra viešai skelbiamos - reikia susisiekti dėl pasiūlymo. Rinkoje žinoma, kad mėnesinės kainos prasideda nuo ~80 €/mėn., o prie to dar pridedami komisiniai nuo mokėjimų.
+Prieš lyginant, sąžiningai: ExoClass turi keletą funkcijų, kurių hobeehub šiuo metu neturi.
 
-### hobeehub kainodara
+**NVŠ sutarčių valdymas** (NVŠ plane, €299/mėn+PVM): automatinis sutarčių generavimas, el. pasirašymas, NVŠ kompensacijų taikymas, eksportas. Jei jūsų organizacija dirba su NVŠ finansavimu ir dideliu sutarčių kiekiu - tai svarbu.
 
-| Planas | Kaina | Kas įskaičiuota |
-|--------|-------|-----------------|
-| Free | 0 €/mėn + 5% nuo rezervacijų | Visos pagrindinės funkcijos |
-| Starter | 10 €/mėn | Mažesnis komisinis |
-| Standard | 20 €/mėn | Visos funkcijos, prioritetinis palaikymas |
+**Mokytojų atlyginimų skaičiuoklė** (Išplėstiniame plane, €199/mėn+PVM): automatinis atlyginimų skaičiavimas pagal grupes ir darbo krūvį, mokėjimų suvestinė. Jei turite daug samdytų instruktorių - tai sutaupo laiko.
 
-Svarbios detalės:
-- **0 € įvedimo mokestis** - pradėti galima šiandien nemokamai
-- **5% platformos mokestis** - vietoje fiksuotų kainų per operaciją
-- **Pirmieji 3 mėnesiai su 50% nuolaida** (kodas EARLY50)
-- Jokių papildomų mokesčių už sutartis ar operacijas
+**Bandomosios pamokos** ir **avansiniai mokėjimai** (Išplėstiniame plane): specialūs registracijos srautai ir pardavimo scenarijai, kurių hobeehub neturi.
 
-Paprastas skaičiavimas: organizatoriui, kurio mėnesinės pajamos 500 €, hobeehub Free planas kainuos 25 € (5%). ExoClass - bent 80 € + komisiniai. Skirtumas - 55 € per mėnesį arba 660 € per metus.
+**API integracijos ir Google/Meta analitika** (MAX planas, €399/mėn+PVM): skirta didelėms organizacijoms su technine komanda.
 
-## Viešas katalogas: didžiausias hobeehub pranašumas
-
-Tai funkcija, kurios **ExoClass neturi** - ir tai yra esminis skirtumas.
-
-### Kaip tai veikia hobeehub
-
-Kiekvienas būrelis gauna viešą profilį adresu `hobeehub.com/business/...`. Šis puslapis yra SEO optimizuotas (JSON-LD, meta žymės, alt tekstai) ir randamas Google paieškoje. Tėvai, ieškantys veiklų savo vaikams, randa jūsų būrelį tiesiogiai per platformą - be papildomų reklamos išlaidų.
-
-ExoClass yra uždara sistema: klientai gali registruotis ir mokėti, bet sistema pati naujų klientų neatveda. Rinkodarą reikia daryti atskirai.
-
-**Praktinis rezultatas:** hobeehub organizatoriai gauna du klientų pritraukimo kanalus - savo rinkodarą IR hobeehub katalogą. ExoClass teikia tik administravimo įrankį.
-
-## Pagrindinių funkcijų palyginimas
+## Funkcijų palyginimas
 
 | Funkcija | ExoClass | hobeehub |
 |----------|----------|----------|
-| Veiklų valdymas | ✅ | ✅ |
-| Mokėjimų surinkimas | ✅ | ✅ NeoPay (LT bankai) |
-| Viešas būrelių katalogas | ❌ | ✅ |
-| Šeimos paskyra (keli vaikai) | ⚠️ Ribota | ✅ |
-| Neatvykimų kreditų sistema | ❌ | ✅ |
-| Instruktorių paskyros (4 lygiai) | ⚠️ | ✅ |
-| Tiesioginės žinutės tėvams | ❌ Tik el. paštas | ✅ Chat + el. paštas |
+| Veiklų / grupių valdymas | ✅ | ✅ |
+| Registracijos puslapis | ✅ Integruojamas į svetainę | ✅ Viešas profilis + integracija |
+| Kliento savitarna | ✅ | ✅ |
+| Automatinės sąskaitos | ✅ | ✅ |
+| Skolų priminimai | ✅ | ✅ |
+| Lankomumo žymėjimas | ✅ (Bazinis+) | ✅ |
+| Nuolaidų kodai | ✅ (Išplėstinis+) | ✅ |
+| Komandos nariai / instruktoriai | ✅ | ✅ 4 lygių teisių sistema |
+| Atlyginimų skaičiuoklė | ✅ (Išplėstinis+) | ❌ |
+| Bandomosios pamokos | ✅ (Išplėstinis+) | ❌ |
+| NVŠ sutarčių valdymas | ✅ (NVŠ planas) | ❌ |
+| API integracijos | ✅ (MAX planas) | ❌ |
+| **Viešas būrelių katalogas** | ❌ | ✅ |
+| **Šeimos paskyra (keli vaikai)** | ❌ | ✅ |
+| **Neatvykimų kreditų sistema** | ❌ | ✅ |
+| **Tiesioginės žinutės (chat)** | ❌ tik el. paštas | ✅ |
+| **Automatiniai priminimai prieš pamoką** | ✅ tik pirmoji pamoka | ✅ 24h ir 2-3h prieš kiekvieną |
 | Free planas | ❌ | ✅ |
 
-## Mokėjimai
+## Keturios vietos, kur hobeehub skiriasi
 
-Mokėjimų integracija yra svarbus praktinis klausimas, ypač Lietuvoje.
+### 1. Šeimos paskyra
 
-### hobeehub naudoja NeoPay
+Daugelyje šeimų keli vaikai lanko skirtingus būrelius. ExoClass neturi šeimos paskyros funkcijos.
 
-NeoPay leidžia momentinį apmokėjimą per Lietuvos bankus: Swedbank, SEB, Luminor, Revolut. Tėvams tai patogiausia - jokių kortelių duomenų, jokių papildomų paskyrų. Vienas paspaudimas ir apmokėta.
+hobeehub leidžia vienam tėvui valdyti visų vaikų registracijas iš vienos paskyros: vienas prisijungimas, visi vaikai, visi mokėjimai vienoje vietoje. Tėvams tai labai svarbu - ir tai tiesiogiai veikia, ar jie rinksis jūsų būrelį ar kitą.
 
-Papildomos funkcijos:
-- Automatinės mėnesinės sąskaitos (generuojamos 1-ą kiekvieno mėnesio dieną)
-- Skolų valdymas su automatiniais priminimais po 3 dienų
-- Promo kodai (pvz., EARLY50)
-- Pinigų grąžinimai vienu mygtuku
-- Automatiniai išmokėjimai į jūsų IBAN
+### 2. Neatvykimų kreditų sistema
 
-### ExoClass mokėjimai
+ExoClass neturi automatizuotos sistemos neatvykimų kompensavimui.
 
-ExoClass integruoja mokėjimų sprendimus, tačiau tikslesnė informacija apie mokesčių struktūrą geriausiai tikrinama tiesiogiai su jais.
+hobeehub: kai mokinys praneša apie neatvykimą iš anksto, pamoka automatiškai virsta **kreditu** - tėvai jį panaudoja kitą kartą. Nereikia rankiniu būdu grąžinti pinigų ar spręsti kiekvieno atvejo atskirai. Mažiau administracijos, mažiau konfliktų.
 
-## Komunikacija su tėvais
+### 3. Komunikacija su tėvais
 
-Modernioje būrelio valdymo sistemoje komunikacija turi būti greita ir patogi.
+ExoClass komunikuoja su tėvais **tik per el. paštą**. Automatiniai laiškai: registracijos patvirtinimas, sąskaita, mokėjimo priminimas, pirmosios pamokos priminimas.
 
-### hobeehub komunikacija
+hobeehub turi **tiesioginių žinučių modulį**: individualūs pokalbiai su kiekvienu tėvu, grupinės žinutės visam būreliui, automatiniai priminimai 24 val. ir 2-3 val. prieš kiekvieną pamoką. Tėvai gali klausinėti ir gauti atsakymus per sistemą.
 
-- **Tiesioginės žinutės (chat)** - realaus laiko pokalbiai su tėvais
-- **Grupinės žinutės** - vienu metu visam būreliui
-- **Automatiniai priminimai** - 24 val. ir 2-3 val. prieš pamoką
-- **Patvirtinimo laiškai** po kiekvienos registracijos
-- Tėvai gali pasistatyti nustatymus pagal savo poreikius
+### 4. Kaina
 
-### ExoClass komunikacija
+Tai labiausiai juntamas skirtumas:
 
-ExoClass teikia el. pašto pranešimus, tačiau realaus laiko pokalbių funkcijos nėra. Tai reiškia, kad skubūs klausimai ar pranešimai turi keliauti per el. paštą - lėčiau ir mažiau patogiai tiek jums, tiek tėvams.
+| Planas | ExoClass | hobeehub |
+|--------|----------|----------|
+| Pradedantysis | €99/mėn + PVM | €0/mėn (Free, iki 2 veiklų) |
+| Vidutinis | €199/mėn + PVM | €10/mėn (Starter) |
+| Pilnas | €299/mėn + PVM | €20/mėn (Standartinis) |
+| Maksimalus | €399/mėn + PVM | - |
+| Bandomasis laikotarpis | Nenurodyta | 30 dienų nemokamai |
 
-## Lankomumas ir neatvykimai
+Metiniu požiūriu: ExoClass bazinis = €1,188+PVM/metai. hobeehub Standartinis = €240/metai.
 
-Viena iš praktiškai skirtingų funkcijų - neatvykimų kreditų sistema.
+## Kam tinka ExoClass, kam hobeehub
 
-**hobeehub** siūlo elegantišką sprendimą: praleista pamoka automatiškai virsta kreditu kitai pamokai. Tėvai nebereikalauja pinigų grąžinimo - gauna kreditą. Jums nereikia spręsti kiekvieną kartą individualiai.
+**Rinkitės ExoClass, jei:**
+- Dirbate su NVŠ finansavimu ir reikalingas automatinis sutarčių generavimas bei pasirašymas
+- Turite 5+ samdytus instruktorius ir reikalinga atlyginimų skaičiuoklė
+- Taikote bandomąsias pamokas kaip pagrindinį įsitraukimo modelį
+- Biudžetas leidžia €100-300/mėn sistemos mokesčiui
 
-**ExoClass** neturi automatinės kreditų sistemos - sprendimai dėl praleistų pamokų tvarkomi rankiniu būdu.
-
-## Komanda: instruktorių valdymas
-
-Jei turite kelis trenerius ar mokytojus, teisių valdymas tampa svarbus.
-
-hobeehub siūlo **4 lygių komandos struktūrą**:
-- **Savininkas** - visiška prieiga
-- **Administratorius** - viskas, išskyrus prenumeratos valdymą
-- **Turinio valdytojas** - veiklos ir žinutės
-- **Instruktorius** - tik savo veiklos, lankomumas, atskira instruktoriaus aplinka
-
-ExoClass siūlo ribotą instruktorių teisių valdymą.
-
-## Kam labiau tinka ExoClass, kam hobeehub?
-
-### ExoClass tinka, jei:
-- Jau naudojate Paysera ar Stripe ir nenori keisti
-- Turite didelę esamą klientų bazę be augimo tikslų
-- Jūsų organizacija jau žinoma ir netrūksta mokinių
-
-### hobeehub tinka, jei:
-- Pradedate arba norite augti
-- Svarbūs nauji klientai be didelių rinkodaros išlaidų
-- Norite moderesnės komunikacijos (chat su tėvais)
-- Svarbu kaina: 0 € pradžia vs 80 €/mėn
-- Lietuvos bankai (NeoPay) patogiau nei Stripe
+**Rinkitės hobeehub, jei:**
+- Svarbu turėti papildomą klientų pritraukimo kanalą be papildomų reklamos išlaidų
+- Tėvai turi kelis vaikus skirtinguose būreliuose - šeimos paskyra svarbi
+- Norite modernios komunikacijos su tėvais (chat, ne tik el. paštas)
+- Pradedantysis arba augantis būrelis: Free arba €10-20/mėn yra realesnis biudžetas
 
 ## Dažnai užduodami klausimai
 
+**Ar galima nemokamai išbandyti abi sistemas?**
+hobeehub siūlo 30 dienų bandomąjį laikotarpį ir nuolatinį Free planą (iki 2 veiklų). ExoClass bandomojo laikotarpio sąlygų viešai nenurodo.
+
+**Ar hobeehub veikia su NVŠ sutartimis?**
+Šiuo metu - ne. NVŠ sutarčių valdymas yra ExoClass pranašumas, ypač organizacijoms, kurios aktyviai naudoja valstybinį finansavimą.
+
 **Ar galima pereiti iš ExoClass į hobeehub?**
-Taip. hobeehub komanda padeda importuoti mokinių duomenis. Įvedimo mokestis - 0 €, todėl pereiti finansiškai neskausminga.
+Taip. Įvedimo mokestis €0, duomenų importas galimas.
 
-**Kuo skiriasi 5% komisinis nuo fiksuotų mokesčių?**
-5% komisinis reiškia, kad mokate proporcingai pajamoms. Jei tą mėnesį pajamos mažesnės (pvz., vasara) - mokate mažiau. Fiksuotas 80 €/mėn mokamas nepriklausomai nuo veiklos.
+**Ar hobeehub turi nuolaidų sistemą?**
+Taip - promo kodai, šeimos nuolaidos.
 
-**Ar hobeehub veikia lietuvių kalba?**
-Taip - visa sistema 100% lietuvių kalba, sąskaitos pritaikytos LT VMI reikalavimams, GDPR atitiktis.
-
-**Ar galima naudotis nemokamai neribotą laiką?**
-Free planas yra nuolatinis - ne tik bandomasis laikotarpis. Mokate tik 5% nuo faktinių rezervacijų.
+**Ar hobeehub sistema lietuvių kalba?**
+Taip - 100% lietuvių kalba, GDPR atitiktis, sąskaitos pritaikytos LT VMI reikalavimams.
 
 ---
 
-Jei dar neišbandėte - registracija nemokamai ir įvedimo mokestis 0 €. Pirmieji 3 mėnesiai su 50% nuolaida naudojant kodą **EARLY50**.
-
-Pradėkite nemokamai: [hobeehub.com](https://hobeehub.com)
+Pradėkite nemokamai - 30 dienų bandomasis laikotarpis, kortelės nereikia. Pirmieji 3 mėnesiai su 50% nuolaida (kodas **EARLY50**): [hobeehub.com](https://hobeehub.com)

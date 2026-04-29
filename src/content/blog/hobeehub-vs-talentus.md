@@ -1,155 +1,132 @@
 ---
-title: 'hobeehub vs Talentus: kuri platforma geriau tinka Lietuvos būreliams?'
-description: 'Lyginame hobeehub ir Talentus - kaina, funkcijos, mokėjimai. Sužinokite, kuri būrelio valdymo sistema siūlo daugiau už mažesnę kainą.'
+title: 'hobeehub vs Talentus: kuri platforma tinkamesnė jūsų būreliui?'
+description: 'Detalus hobeehub ir Talentus palyginimas: funkcijos, tikroji kainodara su papildomais mokesčiais, klientų pritraukimas. Kuris sprendimas naudingesnis?'
 pubDate: '2026-04-29'
-heroImage: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=630&fit=crop&q=90'
+heroImage: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=1200&h=630&fit=crop&q=90'
 tags: ['hobeehub vs talentus', 'talentus alternatyva', 'būrelio valdymo sistema', 'būrelio programėlė lietuva']
 ---
 
-**Talentus** yra žinomas Lietuvos būrelių valdymo sprendimas. **hobeehub** - naujas žaidėjas, kuris siūlo kitokį požiūrį: ne tik administravimo įrankį, bet ir klientų pritraukimo kanalą su mažesniais kaštais. Šiame straipsnyje palyginame abu sprendimus, kad galėtumėte priimti informuotą sprendimą.
+Svarstote tarp hobeehub ir Talentus? Abu sprendimai padeda organizuoti registracijas, sąskaitas ir komunikaciją su tėvais. Tačiau yra keletas svarbių skirtumų - ypač kalbant apie tikrąją kainodarą ir klientų pritraukimą.
 
-<figure>
-<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=675&fit=crop&q=90" alt="Būrelio organizatorius lygina Talentus ir hobeehub sistemas kompiuteryje" title="hobeehub vs Talentus palyginimas Lietuvos būreliams" width="1200" height="675" loading="lazy" />
-<figcaption>Tinkamos sistemos pasirinkimas gali sutaupyti šimtus eurų per metus ir padėti pritraukti naujų mokinių.</figcaption>
-</figure>
+> **Trumpai:** Talentus - administravimo sistema su NVŠ sutarčių valdymu, kainodara priklauso nuo klientų skaičiaus ir operacijų. hobeehub - administravimas su viešu katalogu naujų klientų pritraukimui, šeimos paskyromis ir chat komunikacija, fiksuota mėnesio kaina be papildomų mokesčių.
 
-## Esminis skirtumas vienu sakiniu
+## Tikroji kainodara: ką rodo skaičiai
 
-**Talentus** - administravimo platforma su fiksuotu mėnesiniu mokesčiu ir papildomais kaštais kiekvienai operacijai.
+Talentus kainų lentelė atrodo paprasta: €50/€100/€150 per mėnesį. Bet yra papildomi mokesčiai, kurie reikšmingai keičia galutinę sumą:
 
-**hobeehub** - administravimas + viešas katalogas + Free planas be papildomų mokesčių už operacijas.
+- **€1 už kiekvieną pasirašytą dokumentą** (sutartys)
+- **€0.30-0.40 už kiekvieną mokėjimo operaciją**
+- **€30/mėn už kiekvienus papildomus 100 klientų** (virš įtraukto limito)
 
-## Kainų palyginimas: realūs skaičiai
+**Praktinis pavyzdys:** 80 mokinių, kiekvienas moka kartą per mėnesį, metų pradžioje pasirašo sutartį:
+- Talentus Pradedantysis: €50 + 80×€0.40 (mokėjimai) + 80×€1 (sutartys, metinė suma ÷12 ≈ €7) = **~€89/mėn**
+- Talentus Profesionalus: €100 + 80×€0.35 = **~€128/mėn**
+- hobeehub Standartinis: **€20/mėn** (be papildomų mokesčių mokamame plane)
 
-Kainodara yra vienas akivaizdžiausių skirtumų tarp Talentus ir hobeehub.
+Kuo daugiau klientų ir operacijų - tuo didesnis skirtumas.
 
-### Talentus kainodara
+## Ko Talentus tikrai geras
 
-Talentus dirba pagal kombinuotą modelį:
-- Mėnesinis mokestis: 50-150 €/mėn priklausomai nuo plano
-- **+1 €** už kiekvieną pasirašytą sutartį
-- **+0,30-0,40 €** už kiekvieną mokėjimo operaciją
+Prieš lyginant funkcijas - sąžiningai apie Talentus stiprybes.
 
-Realus pavyzdys: būrelis su 50 mokiniais, 2 naujos sutartys per mėnesį, 50 mokėjimų:
-- Mėnesinis mokestis: 50 €
-- Sutartys: 2 €
-- Operacijos: 17,50 € (50 × 0,35 €)
-- **Iš viso: ~69,50 € per mėnesį**
+**Sutarčių valdymas** yra visų Talentus planų dalis: automatinis generavimas, elektroninis pasirašymas, dokumentų saugojimas. Tai svarbu organizacijoms, kurioms klientai kasmet pasirašo sutartis.
 
-### hobeehub kainodara
+**SMS komunikacija** (Ekspertas planas, €150/mėn): galimybė siųsti pranešimus tiesiogiai į telefoną - ne visi tėvai reguliariai tikrina el. paštą.
 
-| Planas | Kaina | Pastaba |
-|--------|-------|---------|
-| Free | 0 €/mėn + 5% nuo rezervacijų | Visos funkcijos |
-| Starter | 10 €/mėn | Mažesnis komisinis |
-| Standard | 20 €/mėn | Viskas + prioritetinis palaikymas |
+**Stovyklų funkcionalumas** (Ekspertas planas): specializuotas modulis stovykloms ir intensyviems kursams.
 
-**Jokių papildomų mokesčių** už sutartis ar operacijas. 5% komisinis reiškia, kad mokate proporcingai savo pajamoms.
-
-Tas pats pavyzdys su hobeehub Free: 50 mokiniai, 60 € vidutinis mėnesinis mokestis = 3000 € pajamos × 5% = **150 € per mėnesį**.
-
-Svarbu: hobeehub Free planas tinka pradedantiems ar mažesniems būreliams. Starter (10 €/mėn) ir Standard (20 €/mėn) siūlo mažesnį komisinį - didesniems organizatoriams tai greitai atsipirks.
-
-**Papildoma paskata:** pirmieji 3 mėnesiai su 50% nuolaida naudojant kodą **EARLY50**.
-
-## Viešas katalogas: funkcija, kurios Talentus neturi
-
-Tai didžiausias strateginis skirtumas.
-
-### Kuo tai svarbu?
-
-Talentus ir ExoClass yra **uždari įrankiai**: jūsų mokiniai gali registruotis ir mokėti, bet sistema naujų klientų neatveda. Visą rinkodarą turite daryti patys.
-
-hobeehub siūlo **viešą katalogą**: kiekvienas organizatorius gauna SEO optimizuotą puslapį adresu `hobeehub.com/business/...`. Tėvai, ieškantys veiklų savo vaikams per Google, gali rasti jūsų būrelį tiesiogiai per platformą - be papildomų reklamos išlaidų.
-
-Tai reiškia du nepriklausomus klientų pritraukimo kanalus:
-1. Jūsų pačių rinkodara (socialiniai tinklai, rekomendacijos)
-2. hobeehub katalogas (SEO, tiesioginė paieška)
-
-## Mokėjimai
-
-### hobeehub - NeoPay integracija
-
-Momentinis apmokėjimas per Lietuvos bankus: Swedbank, SEB, Luminor, Revolut. Tėvams nereikia kortelių duomenų - greičiausias ir patogiausias būdas mokėti Lietuvoje.
-
-Automatizacija:
-- Mėnesinės sąskaitos generuojamos automatiškai 1-ą kiekvieno mėnesio dieną
-- Skolų valdymas: priminimai po 3 dienų uždelsimo
-- Promo kodai (pvz., EARLY50)
-- Pinigų grąžinimas vienu mygtuku
-- Automatiniai išmokėjimai į organizatoriaus IBAN
-
-### Talentus mokėjimų modelis
-
-Talentus taip pat integruoja mokėjimų sprendimus. Tikslesnė informacija apie tarifus geriausiai tikrinama tiesiogiai su Talentus komanda.
+**Reklama savitarnos portale** (Ekspertas planas): tam tikras matomumas Talentus platformoje.
 
 ## Funkcijų palyginimas
 
 | Funkcija | Talentus | hobeehub |
 |----------|----------|----------|
-| Veiklų valdymas | ✅ | ✅ |
-| Mokėjimų surinkimas | ✅ | ✅ NeoPay |
-| Viešas būrelių katalogas | ❌ | ✅ |
-| Šeimos paskyra (keli vaikai) | ❌ | ✅ |
-| Neatvykimų kreditų sistema | ❌ | ✅ |
-| Instruktorių paskyros (4 lygiai) | ⚠️ Ribota | ✅ |
-| Tiesioginės žinutės tėvams | ⚠️ | ✅ Chat + el. paštas |
-| Automatiniai priminimai | ✅ | ✅ |
+| Veiklų / grupių valdymas | ✅ | ✅ |
+| Registracijų priėmimas | ✅ | ✅ |
+| Sutarčių valdymas | ✅ visuose planuose | ❌ |
+| Kliento savitarna | ✅ | ✅ |
+| Automatinės sąskaitos | ✅ (Ekspertas) | ✅ visuose planuose |
+| Skolų priminimai | ✅ | ✅ |
+| Lankomumo žymėjimas | ✅ | ✅ |
+| El. pašto komunikacija | ✅ | ✅ |
+| SMS komunikacija | ✅ (Ekspertas) | ❌ |
+| Stovyklų funkcionalumas | ✅ (Ekspertas) | ❌ |
+| **Viešas būrelių katalogas** | ⚠️ Ribota (Ekspertas "reklama portale") | ✅ pilnavertis |
+| **Šeimos paskyra (keli vaikai)** | ❌ | ✅ |
+| **Neatvykimų kreditų sistema** | ❌ | ✅ |
+| **Tiesioginės žinutės (chat)** | ❌ tik el. paštas | ✅ |
+| **Automatiniai priminimai prieš pamoką** | ✅ (Ekspertas) | ✅ visuose planuose |
 | Free planas | ❌ | ✅ |
-| Įvedimo mokestis | 0 € | 0 € |
+| Papildomi mokesčiai | ✅ €0.30-0.40/op + €1/sutartis | ❌ (mokamame plane) |
 
-## Šeimos paskyra: svarbi funkcija tėvams
+## Trys sritys, kur hobeehub skiriasi
 
-Daugelis šeimų turi kelis vaikus, lankančius skirtingus būrelius. Talentus šios funkcijos neturi - kiekvienam vaikui reikia atskiros paskyros ir atskirų mokėjimų.
+### 1. Klientų pritraukimas per katalogą
 
-hobeehub leidžia vienam tėvui turėti **šeimos paskyrą**: visi vaikai, visi būreliai, vienas mokėjimas. Tai ženkliai supaprastina tėvų gyvenimą ir didina registracijų konversijos rodiklį - mažiau trinties = daugiau mokinių.
+Talentus neturi viešo katalogo - tai administravimo sistema, kuri nepadeda rasti naujų klientų.
 
-## Neatvykimų kreditų sistema
+hobeehub kiekvienos organizacijos veiklas rodo viešame kataloge: tėvai ieško veiklų pagal vietą, amžiaus grupę, kategoriją. Tai papildomas klientų pritraukimo kanalas, kuris veikia nuolat.
 
-Klasikinis galvos skausmas: vaikas neina į pamoką. Ką daryti?
+### 2. Šeimos paskyra
 
-**Talentus** neturi automatizuoto sprendimo - kiekvieną situaciją reikia spręsti rankiniu būdu.
+Daugelyje šeimų keli vaikai lanko skirtingus būrelius. Talentus šeimos paskyrų funkcijos neturi.
 
-**hobeehub** siūlo kreditų sistemą: praleista pamoka automatiškai virsta kreditu kitai pamokai. Tėvai negauna pinigų grąžinimo - gauna kreditą. Jums nereikia spręsti kiekvieno atvejo individualiai, tėvai žino taisykles iš anksto.
+hobeehub: vienas tėvas, viena paskyra - visi vaikai, visos veiklos, visi mokėjimai. Tėvai to vertina, ir tai tiesiogiai veikia registracijos sprendimą.
 
-## Komunikacija: chat vs el. paštas
+### 3. Neatvykimų valdymas
 
-Modernioje aplinkoje tėvai tikisi greito atsakymo - ne per 24 valandas.
+Talentus neturi automatizuoto neatvykimų kompensavimo.
 
-**hobeehub** siūlo tiesioginį chat'ą su kiekvienu tėvu, grupines žinutes visam būreliui ir automatinius priminimus 24 val. bei 2-3 val. prieš pamoką.
+hobeehub kreditų sistema: tėvas praneša apie neatvykimą - pamoka virsta kreditu kitai pamokai. Organizatoriui nereikia rankiniu būdu nagrinėti kiekvieno atvejo, tėvams - prašyti pinigų grąžinimo. Sistema automatizuoja dažnai pasikartojančią situaciją.
 
-**Talentus** komunikacija - daugiausia el. paštu, kas lėčiau ir mažiau patogiau skubiems klausimams.
+## Komunikacija su tėvais
 
-## Kam labiau tinka Talentus, kam hobeehub?
+**Talentus** siūlo el. pašto komunikaciją visuose planuose, SMS - tik Eksperto plane. Pranešimai siunčiami sistemos vardu.
 
-### Talentus tinka, jei:
-- Jau ilgai naudojate Talentus ir nenori keisti
-- Turite stabilią klientų bazę ir augimas nėra prioritetas
-- Mieliau mokate fiksuotą mėnesinę kainą
+**hobeehub** turi tiesioginių žinučių (chat) modulį: individualūs pokalbiai su kiekvienu tėvu, grupinės žinutės visam būreliui vienu kartu, automatiniai priminimai 24 val. ir 2-3 val. prieš kiekvieną pamoką visuose planuose.
 
-### hobeehub tinka, jei:
-- Norite augti ir pritraukti naujų mokinių be didelių reklamos išlaidų
-- Svarbu Free planas arba mažesnė kaina
-- Norite šeimos paskyrų, kreditų sistemos, realaus laiko žinučių
-- Norite mokėti proporcingai pajamoms, ne fiksuotai
+## Kainodara: pilnas vaizdas
+
+| Planas | Talentus (bazė + papildomi) | hobeehub |
+|--------|------------|----------|
+| Pradedantysis | €50 + €0.40/op + €1/sutartis | €0 (Free, iki 2 veiklų) |
+| Vidurinis | €100 + €0.35/op + €1/sutartis | €10/mėn (Starter) |
+| Pilnas | €150 + €0.30/op + €1/sutartis | €20/mėn (Standartinis) |
+| Bandomasis | Nenurodyta | 30 dienų nemokamai |
+
+Talentus bazinė kaina yra tik pradinis skaičius - tikroji mėnesio kaina priklauso nuo operacijų apimties. Su 50-100 mokiniais skirtumas tarp sistemų kasmet gali siekti kelis šimtus eurų.
+
+## Kam tinka Talentus, kam hobeehub
+
+**Rinkitės Talentus, jei:**
+- Reikalingas automatinis sutarčių generavimas ir el. pasirašymas (visuose planuose)
+- Svarbi SMS komunikacija (Eksperto planas)
+- Reikalingas stovyklų valdymo modulis
+- Klientų skaičius stabilus, operacijų ne per daug - papildomi mokesčiai nekaupiasi
+
+**Rinkitės hobeehub, jei:**
+- Svarbu pritraukti naujus klientus per viešą katalogą be papildomų reklamos išlaidų
+- Tėvai turi kelis vaikus - šeimos paskyra sumažina registracijos trintį
+- Norite fiksuotos mėnesio kainos be kintamųjų mokesčių
+- Pradedantysis būrelis: Free planas leidžia pradėti be jokių išlaidų
 
 ## Dažnai užduodami klausimai
 
+**Ar galima nemokamai išbandyti hobeehub?**
+Taip - 30 dienų bandomasis laikotarpis, kortelės nereikia. Taip pat yra nuolatinis Free planas (iki 2 veiklų).
+
+**Ar hobeehub turi sutarčių valdymą?**
+Šiuo metu - ne. Sutarčių valdymas yra Talentus stiprybė, ypač svarbi organizacijoms su dideliu sutarčių kiekiu.
+
+**Kiek tikrai kainuoja Talentus su 100 mokiniais?**
+Pradedantysis planas: €50 + 100×€0.40 (mokėjimai) = €90/mėn. Profesionalus: €100 + 100×€0.35 = €135/mėn. Plius sutarčių mokestis sezono pradžioje.
+
 **Ar galima pereiti iš Talentus į hobeehub?**
-Taip, ir tai nemokamai - 0 € įvedimo mokestis. hobeehub komanda padeda importuoti mokinių duomenis iš esamos sistemos.
+Taip - įvedimo mokestis €0, migracija galima.
 
-**Ar Free planas turi visas funkcijas?**
-Free planas suteikia prieigą prie visų pagrindinių funkcijų. Skirtumas - komisinio dydis (5% Free vs mažiau Starter/Standard planuose).
-
-**Kiek laiko užtrunka pradėti?**
-Registracija ir pirmosios veiklos kūrimas užtrunka mažiau nei valandą. Viešas katalogas profilis aktyvus iš karto po registracijos.
-
-**Ar sistemą valdo lietuviai?**
-Taip - hobeehub yra lietuviška platforma, visa sistema lietuvių kalba, sąskaitos pritaikytos LT VMI reikalavimams, GDPR atitiktis užtikrinta.
-
-**Kas yra EARLY50 kodas?**
-Promo kodas, suteikiantis 50% nuolaidą pirmiems 3 mėnesiams Starter ir Standard planuose.
+**Ar hobeehub veikia lietuvių kalba?**
+Taip - 100% lietuvių kalba, GDPR atitiktis, sąskaitos pritaikytos LT VMI reikalavimams.
 
 ---
 
-Pirmieji 3 mėnesiai su 50% nuolaida. Įvedimas nemokamas. Pradėkite nemokamai šiandien: [hobeehub.com](https://hobeehub.com)
+Pradėkite nemokamai - 30 dienų bandomasis laikotarpis, kortelės nereikia. Pirmieji 3 mėnesiai su 50% nuolaida (kodas **EARLY50**): [hobeehub.com](https://hobeehub.com)
