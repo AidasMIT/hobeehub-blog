@@ -23,7 +23,7 @@ Vienas mokyklos šokių būrelio vadovas papasakojo: anksčiau kiekvieną mėnes
 
 
 <figure>
-<img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200w=800&h=450&fit=croph=675w=800&h=450&fit=cropfit=cropw=800&h=450&fit=cropq=90" alt="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" title="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" width="1200" height="675" loading="lazy" />
+<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=675&fit=crop&q=90" alt="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" title="Dirbtinis intelektas padeda būrelio organizatoriui automatizuoti komunikaciją ir administravimą" width="1200" height="675" loading="lazy" />
 <figcaption>AI įrankiai leidžia per kelias sekundes sugeneruoti profesionalius pranešimus tėvams.</figcaption>
 </figure>
 

@@ -24,6 +24,13 @@ Prieš pritraukdami naujus mokinius, sustabdykite esamų praradimą. Dažniausio
 
 Sukurkite paprastą išėjimo apklausą - 3-5 klausimai, kuriuos siunčiate tėvams, kai vaikas nustoja lankyti. Net trumpas pokalbis telefonu gali atskleisti sistemines problemas, kurias lengva ištaisyti.
 
+
+<figure>
+<img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=675&fit=crop&q=90" alt="Vaikai aktyviai dalyvauja būrelio veikloje" title="Vaikai aktyviai dalyvauja būrelio veikloje" width="1200" height="675" loading="lazy" />
+<figcaption>Mokinių išlaikymas kainuoja 5x mažiau nei naujų pritraukimas.</figcaption>
+</figure>
+
+
 ## Rekomendacijų programa - galingiausias būdas padidinti mokinių skaičių būrelyje
 
 ### Kodėl rekomendacijos veikia

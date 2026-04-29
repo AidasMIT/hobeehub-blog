@@ -24,7 +24,7 @@ Kai bent vienas iš šių elementų trūksta, skolos tampa tik laiko klausimu.
 
 
 <figure>
-<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200w=800&h=450&fit=croph=675w=800&h=450&fit=cropfit=cropw=800&h=450&fit=cropq=90" alt="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" title="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" width="1200" height="675" loading="lazy" />
+<img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=675&fit=crop&q=90" alt="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" title="Saugus elektroninis mokėjimas būrelio paslaugoms - skolų prevencija" width="1200" height="675" loading="lazy" />
 <figcaption>Automatizuoti mokėjimo priminimai sumažina vėlavimus 60-70%.</figcaption>
 </figure>
 

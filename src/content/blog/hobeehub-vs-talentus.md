@@ -9,7 +9,7 @@ tags: ['hobeehub vs talentus', 'talentus alternatyva', 'būrelio valdymo sistema
 **Talentus** yra žinomas Lietuvos būrelių valdymo sprendimas. **hobeehub** - naujas žaidėjas, kuris siūlo kitokį požiūrį: ne tik administravimo įrankį, bet ir klientų pritraukimo kanalą su mažesniais kaštais. Šiame straipsnyje palyginame abu sprendimus, kad galėtumėte priimti informuotą sprendimą.
 
 <figure>
-<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200w=800&h=450&fit=croph=675w=800&h=450&fit=cropfit=cropw=800&h=450&fit=cropq=90" alt="Būrelio organizatorius lygina Talentus ir hobeehub sistemas kompiuteryje" title="hobeehub vs Talentus palyginimas Lietuvos būreliams" width="1200" height="675" loading="lazy" />
+<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=675&fit=crop&q=90" alt="Būrelio organizatorius lygina Talentus ir hobeehub sistemas kompiuteryje" title="hobeehub vs Talentus palyginimas Lietuvos būreliams" width="1200" height="675" loading="lazy" />
 <figcaption>Tinkamos sistemos pasirinkimas gali sutaupyti šimtus eurų per metus ir padėti pritraukti naujų mokinių.</figcaption>
 </figure>
 

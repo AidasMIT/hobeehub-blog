@@ -24,6 +24,13 @@ Tėvai vertina:
 
 Jei jūsų būrelio nėra internete arba informacija pasenusi - tėvai tiesiog pasirenka konkurentą, kuris matomas ir profesionaliai atrodo.
 
+
+<figure>
+<img src="https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=1200&h=675&fit=crop&q=90" alt="Tėvai naudoja išmanųjį telefoną ieškodami būrelių vaikams" title="Tėvai naudoja išmanųjį telefoną ieškodami būrelių vaikams" width="1200" height="675" loading="lazy" />
+<figcaption>Dauguma tėvų paiešką pradeda išmaniajame telefone.</figcaption>
+</figure>
+
+
 ## Google Maps optimizavimas - skaitmeninės rinkodaros būreliams pagrindas
 
 ### Sukurkite ir optimizuokite Google verslo profilį

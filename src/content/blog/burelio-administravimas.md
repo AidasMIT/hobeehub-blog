@@ -28,6 +28,13 @@ Neefektyvus būrelio administravimas kainuoja ne tik laiką. Jis kainuoja:
 - Perdegimą, kai administravimas užgožia malonumą iš veiklos
 - Profesionalumo trūkumą tėvų akyse
 
+
+<figure>
+<img src="https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?w=1200&h=675&fit=crop&q=90" alt="Būrelio organizatorius naudoja skaitmeninę sistemą administravimui" title="Būrelio organizatorius naudoja skaitmeninę sistemą administravimui" width="1200" height="675" loading="lazy" />
+<figcaption>Skaitmeniniai administravimo įrankiai sutaupo 5-10 valandų per savaitę.</figcaption>
+</figure>
+
+
 ## Lankomumo apskaita - būrelio administravimo pagrindas
 
 ### Kodėl verta sekti lankomumą
