@@ -24,8 +24,8 @@ const articleSchema = JSON.stringify({
 	},
 	"publisher": {
 		"@type": "Organization",
-		"name": "unchainit.tech",
-		"logo": { "@type": "ImageObject", "url": "https://blog.unchainit.tech/logo.png" }
+		"name": "HobeeHub",
+		"logo": { "@type": "ImageObject", "url": "https://blog.HobeeHub/logo.png" }
 	},
 	"mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
 });
@@ -33,7 +33,7 @@ const articleSchema = JSON.stringify({
 
 <html lang="en">
 	<head>
-		<BaseHead title={`${title} — unchainit.tech`} description={description} />
+		<BaseHead title={`${title} — HobeeHub`} description={description} />
 		<script type="application/ld+json" set:html={articleSchema} />
 		<style>
 			.article-header {
