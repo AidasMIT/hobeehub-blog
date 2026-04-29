@@ -1,0 +1,12 @@
+services:
+  hobeehub-blog:
+    build: .
+    container_name: hobeehub-blog
+    restart: unless-stopped
+    network_mode: host
+    labels:
+      - 'traefik.enable=true'
+      - 'traefik.http.routers.hobeehub-blog.rule=Host(`blog.hobeehub.com`)'
+      - 'traefik.http.routers.hobeehub-blog.entrypoints=websecure'
+      - 'traefik.http.routers.hobeehub-blog.tls.certresolver=letsencrypt'
+      - 'traefik.http.services.hobeehub-blog.loadbalancer.server.port=3004'

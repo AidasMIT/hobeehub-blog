@@ -1,0 +1,17 @@
+---
+const today = new Date();
+---
+<footer>
+	<p>© {today.getFullYear()} <a href="https://hobeehub.com">HobeeHub</a> — Atrask pomėgius ir veiklas</p>
+</footer>
+<style>
+	footer {
+		padding: 2em 1em;
+		text-align: center;
+		font-size: 0.85em;
+		color: rgb(var(--gray));
+		border-top: 1px solid rgba(var(--gray), 0.15);
+		margin-top: 4em;
+	}
+	footer a { color: var(--accent-dark); font-weight: 500; }
+</style>

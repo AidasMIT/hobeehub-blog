@@ -1,0 +1,174 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+
+const articleSchema = JSON.stringify({
+	"@context": "https://schema.org",
+	"@type": "BlogPosting",
+	"headline": title,
+	"description": description,
+	"datePublished": pubDate?.toISOString(),
+	"dateModified": updatedDate?.toISOString() || pubDate?.toISOString(),
+	"author": {
+		"@type": "Person",
+		"name": "Aidas Marcinkevičius",
+		"url": "https://linkedin.com/in/aidasmarcink"
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "unchainit.tech",
+		"logo": { "@type": "ImageObject", "url": "https://blog.unchainit.tech/logo.png" }
+	},
+	"mainEntityOfPage": { "@type": "WebPage", "@id": Astro.url.href }
+});
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={`${title} — unchainit.tech`} description={description} />
+		<script type="application/ld+json" set:html={articleSchema} />
+		<style>
+			.article-header {
+				padding: 3em 0 2em;
+				position: relative;
+			}
+			.article-header::after {
+				content: '';
+				position: absolute;
+				right: -200px;
+				top: -100px;
+				width: 400px;
+				height: 400px;
+				background: #d1fae5;
+				border-radius: 50%;
+				filter: blur(80px);
+				opacity: 0.3;
+				pointer-events: none;
+				z-index: -1;
+			}
+			.back-link {
+				display: inline-flex;
+				align-items: center;
+				gap: 6px;
+				font-size: 0.8em;
+				font-weight: 500;
+				color: rgb(var(--gray));
+				text-decoration: none;
+				margin-bottom: 1.5em;
+				padding: 6px 14px;
+				border-radius: 10px;
+				transition: all 0.15s;
+			}
+			.back-link:hover {
+				color: rgb(var(--black));
+				background: rgb(var(--gray-light));
+				text-decoration: none;
+			}
+			.article-meta {
+				font-size: 0.8em;
+				font-weight: 500;
+				color: rgb(var(--gray));
+				margin-bottom: 0.75em;
+			}
+			.article-header h1 {
+				font-size: 2.5em;
+				line-height: 1.15;
+				margin-bottom: 0;
+			}
+			.article-desc {
+				font-size: 1.15em;
+				color: rgb(var(--gray));
+				margin-top: 0.75em;
+				line-height: 1.6;
+			}
+			.hero-image {
+				margin: 0 -1em 2em;
+			}
+			.hero-image img {
+				display: block;
+				width: 100%;
+				border-radius: 16px;
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 0 1em 3em;
+				color: rgb(var(--gray-dark));
+			}
+			.article-divider {
+				height: 1px;
+				background: rgb(var(--gray-light));
+				margin: 2em 0;
+			}
+			.last-updated-on {
+				font-style: italic;
+				color: rgb(var(--gray));
+				font-size: 0.85em;
+			}
+			/* Article CTA */
+			.article-cta {
+				margin-top: 3em;
+				padding: 2em;
+				background: rgb(var(--gray-light));
+				border: 1px solid #e2e8f0;
+				border-radius: 16px;
+			}
+			.article-cta p {
+				margin: 0;
+				font-size: 0.95em;
+			}
+			.article-cta a {
+				color: #059669;
+				font-weight: 600;
+			}
+			@media (max-width: 720px) {
+				.article-header h1 { font-size: 1.75em; }
+				.article-desc { font-size: 1em; }
+			}
+		</style>
+	</head>
+
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC7XSN8T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<Header />
+		<main>
+			<article>
+				<div class="prose">
+					<div class="article-header">
+						<a href="/blog" class="back-link">← All posts</a>
+						<div class="article-meta">
+							<FormattedDate date={pubDate} />
+							{updatedDate && (
+								<span class="last-updated-on"> · Updated <FormattedDate date={updatedDate} /></span>
+							)}
+						</div>
+						<h1>{title}</h1>
+						{description && <p class="article-desc">{description}</p>}
+					</div>
+
+					{heroImage && (
+						<div class="hero-image">
+							<Image width={1020} height={510} src={heroImage} alt="" />
+						</div>
+					)}
+
+					<div class="article-divider"></div>
+
+					<slot />
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
