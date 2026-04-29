@@ -12,84 +12,91 @@ const posts = (await getCollection('blog')).sort(
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="lt">
 	<head>
-		<BaseHead title={`Blog — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Visi straipsniai — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
 			.page-header {
-				margin-bottom: 2.5em;
+				padding: 3em 0 2em;
+				border-bottom: 1px solid rgba(var(--gray), 0.15);
+				margin-bottom: 2em;
 			}
-			.page-label {
+			.page-badge {
 				display: inline-block;
-				font-size: 0.75em;
-				font-weight: 500;
-				letter-spacing: 0.15em;
+				font-size: 0.78em;
+				font-weight: 600;
+				letter-spacing: 0.1em;
 				text-transform: uppercase;
-				color: #f59e0b;
-				margin-bottom: 0.75em;
+				color: var(--accent-dark);
+				background: var(--accent-light);
+				border: 1px solid rgba(245,158,11,0.3);
+				padding: 5px 14px;
+				border-radius: 100px;
+				margin-bottom: 1em;
 			}
 			.page-title {
-				font-size: 2.25em;
-				margin-bottom: 0.25em;
+				font-size: 2em;
+				margin-bottom: 0.3em;
+				color: rgb(var(--black));
 			}
 			.page-desc {
 				color: rgb(var(--gray));
-				font-size: 1.05em;
+				font-size: 1em;
+				margin: 0;
 			}
-			.posts { list-style: none; margin: 0; padding: 0; }
-			.posts li { margin-bottom: 1em; }
+			.posts { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.75em; }
+			.posts li { }
 			.post-card {
 				display: block;
 				text-decoration: none;
-				padding: 1.5em;
-				background: rgb(var(--gray-light));
-				border: 1px solid transparent;
-				border-radius: 16px;
-				transition: all 0.2s;
+				padding: 1.5em 1.75em;
+				background: #fafafa;
+				border: 1px solid rgba(var(--gray), 0.15);
+				border-radius: 14px;
+				transition: all 0.18s ease;
 			}
 			.post-card:hover {
 				background: #fff;
-				border-color: #e2e8f0;
-				box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-				transform: translateY(-1px);
+				border-color: rgba(245,158,11,0.35);
+				box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+				transform: translateY(-2px);
 				text-decoration: none;
 			}
-			.post-card:hover .post-title { color: #f59e0b; }
 			.post-title {
-				font-family: 'DM Sans', sans-serif;
-				font-size: 1.2em;
-				font-weight: 600;
+				font-family: 'Lora', Georgia, serif;
+				font-size: 1.15em;
+				font-weight: 700;
 				color: rgb(var(--black));
-				margin: 0 0 0.35em;
-				line-height: 1.35;
+				margin: 0 0 0.4em;
+				line-height: 1.4;
 				transition: color 0.15s;
 			}
+			.post-card:hover .post-title { color: var(--accent-dark); }
 			.post-desc {
 				color: rgb(var(--gray));
-				font-size: 0.9em;
-				margin: 0 0 0.5em;
-				line-height: 1.5;
+				font-size: 0.88em;
+				margin: 0 0 0.6em;
+				line-height: 1.55;
 			}
 			.post-meta {
 				color: rgb(var(--gray));
 				font-size: 0.75em;
 				font-weight: 500;
+				opacity: 0.75;
 			}
 			@media (max-width: 720px) {
-				.page-title { font-size: 1.75em; }
+				.page-title { font-size: 1.6em; }
+				.post-card { padding: 1.25em; }
 			}
 		</style>
 	</head>
 	<body>
-		<!-- Google Tag Manager (noscript) -->
-		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC7XSN8T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-		<!-- End Google Tag Manager (noscript) -->
 		<Header />
 		<main>
 			<div class="page-header">
-				<span class="page-label">All Posts</span>
-				<h1 class="page-title">Blog</h1>
-				<p class="page-desc">Practical guides on building, shipping, and growing software products.</p>
+				<span class="page-badge">✦ Tinklaraštis</span>
+				<h1 class="page-title">Visi straipsniai</h1>
+				<p class="page-desc">Praktiniai vadovai būrelių organizatoriams.</p>
 			</div>
 			<ul class="posts">
 				{posts.map((post) => (
